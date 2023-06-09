@@ -1,0 +1,48 @@
+{
+  "name": "anketa_vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@cubejs-client/core": "^0.31.0",
+    "chart.js": "^3.9.1",
+    "core-js": "^3.6.5",
+    "d3": "^7.8.3",
+    "vue": "^2.6.11",
+    "vue-chartjs": "^5.2.0",
+    "vue-material-design-icons": "^5.2.0",
+    "vue-plotly": "^1.1.0",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-eslint": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^9.1.2",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^8.0.0",
+    "parcel": "^2.6.2",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.4.1",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "vue-loader": "^15.9.7",
+    "vue-template-compiler": "^2.7.14",
+    "vuetify-loader": "^1.7.0",
+    "webpack": "^4.0.0"
+  }
+}
